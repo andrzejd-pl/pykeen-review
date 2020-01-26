@@ -26,7 +26,7 @@
 
   "random_seed": 2,
 
-  "preferred_device": "cpu",
+  "preferred_device": "gpu",
 
   "output_direc": "Compath_bioinformatics/output",
 
